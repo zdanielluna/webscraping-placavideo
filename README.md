@@ -15,8 +15,9 @@ Tabela de conteúdos
 O robô RPA realiza a extração da descrição e preço das placas de vídeo nos principais sites do mercado. Em seguida, realiza o tratamento dos dados, armazenamento e montagem da apresentação no excel.
 
 ## ✅ Features
-- [x] Download da planilha
-- [x] Preenchimento automático do formulário web
+- [x] Extração paralela de dados web
+- [x] Tratamento dos dados
+- [x] Montagem de planilha excel
 
 ## 🛠 Tecnologias
 
